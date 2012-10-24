@@ -18,7 +18,7 @@ namespace Languages
         {
             InitializeComponent();
 
-            button1.Text = Properties.Resources.ButtonText;
+            button1.Text = Resources.ButtonText;
 
         }
     }
